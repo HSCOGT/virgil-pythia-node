@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@virgilsecurity/crypto-types": "^1.0.0",
-    "axios": "^0.21.1"
+    "axios": "^1.6.8"
   },
   "peerDependencies": {
     "virgil-sdk": "^6.0.0"
